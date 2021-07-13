@@ -1,0 +1,88 @@
+[
+  {
+    "1": "Which of the following is not an attribute of a population ?",
+    "2": "The process of growth is maximum during :",
+    "3": "The roots that originate from the base of the stem are :",
+    "4": "In which of the following techniques, the embryos are transferred to assist those females who cannot conceive ?",
+    "5": "The infectious stage of Plasmodium that enters the human body is :",
+    "6": "Identify the substances having glycosidic bond and peptide bond, respectively in their structure :",
+    "7": "The product(s) of reaction catalyzed by nitrogenase in root nodules of leguminous plants is/are :",
+    "8": "Cuboidal epithelium with brush border of microvilli is found in :",
+    "9": "Which of the following statements about inclusion bodies is incorrect ?",
+    "10": "Which is the important site of formation of glycoproteins and glycolipids in eukaryotic cells ?"
+  },
+  {
+    "1": {
+      "a": "Sex ratio",
+      "b": "Natality",
+      "c": "Mortality",
+      "d": "Species interaction"
+    },
+    "2": {
+      "a": "Log phase",
+      "b": "Lag phase",
+      "c": "Senescence",
+      "d": "Dormancy"
+    },
+    "3": {
+      "a": "Fibrous roots",
+      "b": "Primary roots",
+      "c": "Prop roots",
+      "d": "Lateral roots"
+    },
+    "4": {
+      "a": "ZIFT and IUT",
+      "b": "GIFT and ZIFT",
+      "c": "ICSI and ZIFT",
+      "d": "GIFT and ICSI"
+    },
+    "5": {
+      "a": "Trophozoites",
+      "b": "Sporozoites",
+      "c": "Female gametocytes",
+      "d": "Male gametocytes"
+    },
+    "6": {
+      "a": "Chitin, cholesterol",
+      "b": "Glycerol, trypsin",
+      "c": "Cellulose, lecithin",
+      "d": "Inulin, insulin"
+    },
+    "7": {
+      "a": "Ammonia alone",
+      "b": "Nitrate alone",
+      "c": "Ammonia and oxygen",
+      "d": "Ammonia and hydrogen"
+    },
+    "8": {
+      "a": "lining of intestine",
+      "b": "ducts of salivary glands",
+      "c": "proximal convoluted tubule of nephron",
+      "d": "eustachian tube"
+    },
+    "9": {
+      "a": "They are not bound by any membrane.",
+      "b": "These are involved in ingestion of food particles.",
+      "c": "They lie free in the cytoplasm.",
+      "d": "These represent reserve material in cytoplasm."
+    },
+    "10": {
+      "a": "Endoplasmic reticulum",
+      "b": "Peroxisomes",
+      "c": "Golgi bodies",
+      "d": "Polysomes"
+    }
+  },
+  {
+    "1": "Species interaction",
+    "2": "Log phase",
+    "3": "Fibrous roots",
+    "4": "ZIFT and IUT",
+    "5": "Sporozoites",
+    "6": "Inulin, insulin",
+    "7": "Ammonia and hydrogen",
+    "8": "proximal convoluted tubule of nephron",
+    "9": "These are involved in ingestion of food particles.",
+    "10": "Golgi bodies"
+  }
+]

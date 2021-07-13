@@ -1,0 +1,88 @@
+[
+  {
+    "1": "Software is considered to be collection of ____________",
+    "2": "The process of developing a software product using software engineering principles and methods is referred to as____________",
+    "3": " Lehman has given laws for software evolution and he divided the software into ________ different categories.",
+    "4": "Which of the following is not consider laws for E-Type software evolution?",
+    "5": "Which of the following laws for E-Type says - E-type software system must continue to adapt to the real world changes, else it becomes progressively less useful",
+    "6": "Which of the following is the Characteristics of good software?",
+    "7": "Where there is a need of Software Engineering?",
+    "8": "The reason for software bugs and failures is due to____________.",
+    "9": "Efficiency in a software product does not include ________",
+    "10": "What are attributes of good software ?"
+  },
+  {
+    "1": {
+      "a": "programming code",
+      "b": "associated libraries",
+      "c": "documentations",
+      "d": " All of the above"
+    },
+    "2": {
+      "a": "Software Engineering",
+      "b": "software Evolution",
+      "c": "System Models",
+      "d": "Software Models"
+    },
+    "3": {
+      "a": "6",
+      "b": "2",
+      "c": "3",
+      "d": "5"
+    },
+    "4": {
+      "a": "Continuing quality",
+      "b": "Continuing change",
+      "c": "Increasing complexity",
+      "d": "Self-regulation"
+    },
+    "5": {
+      "a": "Continuing growth",
+      "b": "Continuing change",
+      "c": "Conservation of familiarity",
+      "d": "Self-regulation"
+    },
+    "6": {
+      "a": "Transitional",
+      "b": "Operational",
+      "c": "Maintenance",
+      "d": " All of the above"
+    },
+    "7": {
+      "a": "For Large Software",
+      "b": "To reduce Cost",
+      "c": "Software Quality Management",
+      "d": "All of the above"
+    },
+    "8": {
+      "a": "Software Developers",
+      "b": "Software companies",
+      "c": "Both A and B",
+      "d": "None of the above"
+    },
+    "9": {
+      "a": "licensing",
+      "b": "processing time",
+      "c": "responsiveness",
+      "d": "memory utilization"
+    },
+    "10": {
+      "a": "Software functionality",
+      "b": "Software development",
+      "c": "Software maintainability",
+      "d": "Both A and C"
+    }
+  },
+  {
+    "1": "All of the above",
+    "2": "software Evolution",
+    "3": "3",
+    "4": "Continuing quality",
+    "5": "Continuing growth",
+    "6": "All of the above",
+    "7": "All of the above",
+    "8": "Both A and B",
+    "9": "licensing",
+    "10": "Both A and C"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "1": "ML is a field of AI consisting of learning algorithms that?",
+    "2": "Which of the following are ML methods?",
+    "3": "What is Machine Learning (ML)?",
+    "4": "Which is FALSE regarding regression?",
+    "5": "Choose the correct option regarding machine learning (ML) and artificial intelligence (AI)",
+    "6": "Which of the factors affect the performance of the learner system does not include?",
+    "7": "Successful applications of ML",
+    "8": "Which of the following does not include different learning methods",
+    "9": "Designing a machine learning approach involves:-",
+    "10": "Which of the following is not type of learning?"
+  },
+  {
+    "1": {
+      "a": "Improve their performance",
+      "b": "At executing some task",
+      "c": "Over time with experience",
+      "d": "All of the above"
+    },
+    "2": {
+      "a": "based on human supervision",
+      "b": "supervised Learning",
+      "c": "semi-reinforcement Learning",
+      "d": "All of the above"
+    },
+    "3": {
+      "a": "The autonomous acquisition of knowledge through the use of manual programs",
+      "b": "The selective acquisition of knowledge through the use of computer programs",
+      "c": "The selective acquisition of knowledge through the use of manual programs",
+      "d": "The autonomous acquisition of knowledge through the use of computer programs"
+    },
+    "4": {
+      "a": "It may be used for interpretation",
+      "b": "It is used for prediction",
+      "c": "It discovers causal relationships",
+      "d": "It relates inputs to outputs"
+    },
+    "5": {
+      "a": "ML is a set of techniques that turns a dataset into a software ",
+      "b": "AI is a software that can emulate the human mind",
+      "c": "ML is an alternate way of programming intelligent machines",
+      "d": "All of the above "
+    },
+    "6": {
+      "a": "Good data structures",
+      "b": "Representation scheme used",
+      "c": "Training scenario",
+      "d": "Type of feedback"
+    },
+    "7": {
+      "a": "Learning to recognize spoken words",
+      "b": "Learning to drive an autonomous vehicle",
+      "c": "Learning to classify new astronomical structures",
+      "d": "All of the above"
+    },
+    "8": {
+      "a": "Analogy",
+      "b": "Introduction",
+      "c": "Memorization",
+      "d": "Deduction"
+    },
+    "9": {
+      "a": "Choosing the type of training experience",
+      "b": "Choosing the target function to be learned",
+      "c": "Choosing a representation for the target function",
+      "d": "All of the above"
+    },
+    "10": {
+      "a": "Unsupervised Learning",
+      "b": "Supervised Learning",
+      "c": "Semi-unsupervised Learning",
+      "d": "Reinforcement Learning"
+    }
+  },
+  {
+    "1": "All of the above",
+    "2": "based on human supervision",
+    "3": "The autonomous acquisition of knowledge through the use of computer programs",
+    "4": "It discovers causal relationships",
+    "5": "All of the above",
+    "6": "Good data structures",
+    "7": "All of the above",
+    "8": "Introduction",
+    "9": "All of the above",
+    "10": "Semi-unsupervised Learning"
+  }
+]

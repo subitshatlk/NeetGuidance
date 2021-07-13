@@ -1,0 +1,88 @@
+[
+  {
+    "1": "IoT stands for?",
+    "2": "Which of the following is true about IoT?",
+    "3": "IoT is an advanced automation and analytics system which deals with?",
+    "4": "Which of the following is not an advantage of IoT?",
+    "5": "In Which year, the term Internet of things was coined ?",
+    "6": "The term Internet of things was coined by?",
+    "7": "The number of elements in the Open IoT Architecture?",
+    "8": "In SOA, Service is termed as _________",
+    "9": "API enables services portability between ____________",
+    "10": "Which of the following is the java extension file in IOT"
+  },
+  {
+    "1": {
+      "a": "Introduction of Things",
+      "b": "Internet of Things",
+      "c": " Internet of Tracking",
+      "d": "Interaction of Things"
+    },
+    "2": {
+      "a": "The term Things in the Internet of Things refers to anything and everything in day to day life",
+      "b": "IoT has greater transparency, control, and performance",
+      "c": "Both A and B",
+      "d": "None of the above"
+    },
+    "3": {
+      "a": "sensor, networking",
+      "b": "electronic",
+      "c": "cloud messaging",
+      "d": "All of the above"
+    },
+    "4": {
+      "a": "Improved Customer Engagement",
+      "b": "Security",
+      "c": "Reduced Waste",
+      "d": "Enhanced Data Collection"
+    },
+    "5": {
+      "a": "1998",
+      "b": "1999",
+      "c": "2000",
+      "d": "2001"
+    },
+    "6": {
+      "a": "Kevin Ashton",
+      "b": "Guido van Rossum",
+      "c": "IBM",
+      "d": "Ross Ihaka"
+    },
+    "7": {
+      "a": "5 elements",
+      "b": "6 elements",
+      "c": "7 elements",
+      "d": "8 elements"
+    },
+    "8": {
+      "a": "Software service",
+      "b": "Network service",
+      "c": "Business service",
+      "d": "Developer service"
+    },
+    "9": {
+      "a": "Systems",
+      "b": "Devices",
+      "c": "Networks",
+      "d": "Services"
+    },
+    "10": {
+      "a": ".exe",
+      "b": ".py",
+      "c": ".c",
+      "d": ".jar"
+    }
+  },
+  {
+    "1": "Internet of Things",
+    "2": "Internet of Things",
+    "3": "All of the above",
+    "4": "Security",
+    "5": "1999",
+    "6": "Kevin Ashton",
+    "7": "7 elements",
+    "8": "Business service",
+    "9": "Systems",
+    "10": ".jar"
+  }
+]

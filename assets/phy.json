@@ -1,0 +1,88 @@
+[
+  {
+    "1": "For which one of the following, Bohr model is not valid?",
+    "2": "The ratio of contributions made by the electric field and magnetic field components to the intensity of an electromagnetic wave is : (c = speed of electromagnetic waves)",
+    "3": "Two cylinders A and B of equal capacity are connected to each other via a stop cock. A contains an ideal gas at standard temperature and pressure. B is completely evacuated. The entire system is thermally insulated. The stop cock is suddenly opened. The process is :",
+    "4": "A body weighs 72 N on the surface of the earth. What is the gravitational force on it, at a height equal to half the radius of the earth ?",
+    "5": "In a certain region of space with volume 0.2 metre cube, the electronic potential is found to be 5 V throughout. The magnitude of electric field in this region is:",
+    "6": "The increase in width of the depletion region in a p-n junction diode is due to :",
+    "7": "A ball is thrown vertically download with a velocity of 20 m/s from the top of a tower. It hits the ground after some time with a velocity of 80 m/s. The height of the tower is : (g = 10 m/s square)",
+    "8": "A capillary tube of radius r is immersed in water and water rises in it to a height h. The mass of the water in the capillary is 5g. Another capillary tube of radius 2r is immersed in water. The mass of water that will raise in this tube is :",
+    "9": "The energy required to break one bond in DNA is 10 to the power -20 J. This value in eV is nearly :",
+    "10": "Two bodies of mass 4 kg and 6 kg are tied to the ends of a massless string. The string passes over a pulley which is frictionless. The acceleration of the systems in terms of acceleration due to gravity (g) is :"
+  },
+  {
+    "1": {
+      "a": "Hydrogen atom",
+      "b": "Singly ionised helium atom",
+      "c": "Deuteron atom",
+      "d": "Singly ionised neon atom"
+    },
+    "2": {
+      "a": "c:1",
+      "b": "1:1",
+      "c": "1:c",
+      "d": "1:c square"
+    },
+    "3": {
+      "a": "isothermal",
+      "b": "adiabatic",
+      "c": "isochoric",
+      "d": "isobaric"
+    },
+    "4": {
+      "a": "48 N",
+      "b": "32 N",
+      "c": "30 N",
+      "d": "24 N"
+    },
+    "5": {
+      "a": "zero",
+      "b": "0.5 N/C",
+      "c": "1 N/C",
+      "d": "5 N/C"
+  	},
+    "6": {
+      "a": "forward bias only",
+      "b": "reverse bias only",
+      "c": "both forward bias and reverse bias",
+      "d": "increase in forward current"
+    },
+    "7": {
+      "a": "360 m",
+      "b": "340 m",
+      "c": "320 m",
+      "d": "300 m"
+    },
+    "8": {
+      "a": "2.5 g",
+      "b": "5.0 g",
+      "c": "10.0 g",
+      "d": "20.0 g"
+    },
+    "9": {
+      "a": "6",
+      "b": "0.6",
+      "c": "0.06",
+      "d": "0.006"
+    },
+    "10": {
+      "a": "g",
+      "b": "g/2",
+      "c": "g/5",
+      "d": "g/10"
+    }
+  },
+  {
+    "1": "Singly ionised neon atom",
+    "2": "1:1",
+    "3": "adiabatic",
+    "4": "32 N",
+    "5": "zero",
+    "6": "reverse bias only",
+    "7": "300 m",
+    "8": "10.0 g",
+    "9": "0.06",
+    "10": "g/5"
+  }
+]
